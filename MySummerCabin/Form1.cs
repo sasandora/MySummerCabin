@@ -14,6 +14,7 @@ namespace MySummerCabin
     {
         public Form1()
         {
+            //Tästä se lähtee
             InitializeComponent();
         }
     }
